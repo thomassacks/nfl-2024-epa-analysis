@@ -25,17 +25,17 @@ EPA measures how each play changes a team's expected points. Higher EPA on offen
 ## 📊 Key Visualizations
 
 ### 🏈 Offensive EPA Rankings
-![Offensive EPA Rankings]
+Offensive EPA Rankings
 - Teams at the top (e.g., **BAL, BUF, DET**) have the most efficient offenses.
 - Negative EPA offenses (bottom teams) are struggling to generate positive plays.
 
 ### 💪 Defensive EPA Allowed Rankings
-![Defensive EPA Rankings]
+Defensive EPA Rankings
 - Negative numbers are better here. Teams like **PHI, DEN, HOU** suppress opponent scoring effectively.
 - Teams with positive EPA allowed struggle defensively.
 
 ### 🔹 Offensive vs Defensive Matrix
-![Offense vs Defense Quadrant]
+Offense vs Defense Quadrant
 - **Elite Teams**: High offense, low defense EPA (top right quadrant)
 - **Pretenders**: Good offense, weak defense
 - **Gritty Teams**: Bad offense, good defense
